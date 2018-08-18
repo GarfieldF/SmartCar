@@ -9,7 +9,7 @@
  *
  * @file       main.c
  * @brief      山外K60 平台主程序
- * @author     山外科技
+ * @author     山外科技&
  * @version    v5.0
  * @date       2013-08-28
  */
@@ -76,7 +76,7 @@ uint16 distance=0;
 /*!
 *  @brief      main函数 修改时间:2018.4.14
  *  @since      v5.3
- *  @note       泰山二队啦啦啦
+ *  @note       SDUST-小仙女-校赛基础程序
  */
 uint32 run_time=0;
 void  main(void)
@@ -98,7 +98,7 @@ void  main(void)
                 //beep_on();
 		get_center();
 		servo_control();
-                motor_control();
+            
                 RLC();//OLED显示函数
                
                 
@@ -110,27 +110,7 @@ void  main(void)
 
 		//通过灯闪烁，观察程序是否在运行
                
-                 
-          
-          /*  pit_time_start(PIT3);
-		camera_get_img();    //摄像头获取图像
-               run_time=pit_time_get_us(PIT3);
-		//黑白摄像头
-               
-		img_extract(img, imgbuff,CAMERA_SIZE);//解压图像
-		get_center();
-		servo_control();
-                RLC();//OLED显示函数
-               
-                if(DSW_Read(2)==DIP_UP)//如果拨码开关2上拨
-                img_sd_save(imgbuff,CAMERA_SIZE);//1.34ms
-		 
-
-		//通过灯闪烁，观察程序是否在运行*/
-	
-                 
-                
-
+ 
                  
                  
 	}
