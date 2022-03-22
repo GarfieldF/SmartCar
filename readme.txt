@@ -1,5 +1,9 @@
-2018ÄêÉ½¶«ÈüÇø¹âµç×·Öğ×é
+2018å¹´å±±ä¸œèµ›åŒºå…‰ç”µè¿½é€ç»„
+è½¦å‹ï¼šBè½¦
+èŠ¯ç‰‡ï¼šK60
+æ‘„åƒå¤´ï¼šå±±å¤–é¹°çœ¼
 
-B³µ
-Ğ¾Æ¬£ºK60
-ÉãÏñÍ·£ºÉ½ÍâÓ¥ÑÛ
+the â€œNXP Cupâ€ China Undergraduate Intelligent Car Racing competition
+Car: B type
+Chip: Freescale MK60DN512VLQ10
+Cameraï¼šVCAN camera
